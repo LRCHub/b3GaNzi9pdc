@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "NEXTAGE",
+  "base_artist": "i☆Ris",
+  "createdAt": "2026-01-13T13:13:48.248942Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Nextage",
+      "artist": "Passcode",
+      "has_synced": true,
+      "path": "select/01_Nextage_Passcode.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Nextage (Passcode Miss Unlimited Tour 2016 At Studio Coast)",
+      "artist": "Passcode",
+      "has_synced": false,
+      "path": "select/02_Nextage_(Passcode_Miss_Unlimited_Tour_2016_At_Studio_Coast)_Passcode.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "NEXTAGE",
+      "artist": "i☆Ris",
+      "has_synced": false,
+      "path": "select/03_NEXTAGE_i☆Ris.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "NEXTAGE (inst.)",
+      "artist": "i☆Ris",
+      "has_synced": false,
+      "path": "select/04_NEXTAGE_(inst.)_i☆Ris.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "NEXTAGE",
+      "artist": "i☆Ris",
+      "has_synced": false,
+      "path": "select/pl_01_NEXTAGE_i☆Ris.txt"
+    }
+  ]
+}
